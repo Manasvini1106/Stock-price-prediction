@@ -1,5 +1,4 @@
 # STOCK PRICE PREDICTION USING TIME SERIES
-Technical Approach:
 
 Dataset:
 Utilized an expansive dataset containing stock prices of S&P 500 companies across diverse domains, enabling robust cross-domain analysis.
