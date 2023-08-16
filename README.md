@@ -11,5 +11,3 @@ Methodology:
 
 Outcome:
 The meticulously engineered models achieved an impressive 5% mean accuracy variation. The project's success underscores the potential of Deep Learning for stock price prediction, demonstrating its tangible real-world application.
-
-This project not only showcases my adeptness in data processing and Deep Learning but also underscores my capacity to apply cutting-edge techniques to intricate financial datasets, yielding accurate and valuable predictions.
